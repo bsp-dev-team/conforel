@@ -1,0 +1,325 @@
+@CHARSET "utf-8";
+
+/**
+* Importation de la fonte Google Dosis
+**/
+@import url('https://fonts.googleapis.com/css?family=Dosis:300,400,700');
+
+body{
+	font-family: Dosis;
+	font-weight: normal;
+}
+
+.header.main {
+	border: none;
+	border-bottom: solid 1px rgb(255, 101, 0);
+	padding-bottom: .7em;
+}
+.header.main h1{
+	color: rgb(255, 101, 0);
+	font-size: 1.5em;
+	font-weight: normal;
+	text-transform: uppercase;
+	text-align: center;	
+}
+
+.header.main h1 strong{
+	font-weight: 700;	
+}
+
+.header .contact a{
+	color: inherit;
+	text-decoration: none;
+}
+
+.header ul li.embossed, .header ul li.embossed a{
+	font-weight: 700;
+	font-size: 1.2em;
+}
+.header ul li.social-toolbar ul {
+	margin-top: .5em;
+}
+li.social-toolbar{
+	color: rgb(255, 101, 0);
+}
+li.social-toolbar a{
+	color: inherit;
+	text-decoration: none;
+}
+
+li.social-toolbar ul li{
+	float:left;
+	margin-right: 0.5em;
+}
+
+li.social-toolbar ul li i{
+	font-size: 2em;
+}
+
+/**
+* main : espace principal pour l'affichage
+**/
+main header.header h2 {
+	font-size:1.5em;
+	text-align: center;
+}
+
+main header.header h2 em{
+	color: rgb(255, 101, 0);
+	font-style: normal;
+}
+
+/**
+* Chemin de fer : bureau
+**/
+@media screen and (min-width: 1024px){
+	#chemin-de-fer ul li {
+		float: left;
+		margin-right: 0.5em;
+		width: 200px;
+	}
+	
+	#chemin-de-fer figure {
+		position: relative;
+		height: 85px;
+		overflow: hidden;
+	}
+	
+	#chemin-de-fer ul li:first-child{
+		width: 284px;
+		height: 121px;
+	}
+	
+	#chemin-de-fer figure:hover figcaption{
+		top: 0%;
+		color: #fff;
+		transition: top 1s 0s ease-in-out, color .5s .8s ease-in;
+	}
+	
+	#chemin-de-fer figure figcaption{
+		position: absolute;
+		top: 97%;
+		width: inherit;
+		height: 200px;
+		background-color: rgba(255, 101, 0, .7);
+		border-top: solid 1px rgb(255, 101, 0);
+		color: #333;
+		font-weight: 700;
+		padding-left: 0.25em;
+		padding-right: 0.25em;
+	}
+	
+	#chemin-de-fer figure figcaption h3{
+		font-size: 1.2em;
+		text-align: center;
+		padding-top: 0;
+		margin-top: 0;
+	}
+}
+
+@media screen and (max-width: 1023px){
+	#carousel-mobile-support ul li {
+		margin-bottom: 0.5em;
+		width: 100%;
+	}
+
+	#carousel-mobile-support ul li a{
+		color: rgb(255, 101, 0);
+		text-decoration: none;
+	}
+		
+	#carousel-mobile-support figure.vignette {
+		margin: 0 auto;
+	}
+	
+	#carousel-mobile-support figure img{
+		margin: 0 auto;
+	}
+	
+	#carousel-mobile-support figure figcaption{
+		width: inherit;
+		padding-left: .5em;
+		padding-right: .5em;
+		text-align: justify;
+	}
+	
+	#carousel-mobile-support ul li h3{
+		font-size: 1em;
+		color: inherit;
+		font-weight: 700;
+	}
+}
+
+/**
+* Carousels
+**/
+#carousel-support {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+#carousel-support figure figcaption {
+	display: none;
+}
+
+#carousel-support .univers.inactive{
+	display: none;
+}
+
+#carousel-support .univers.active{
+	animation-name: progressive;
+	animation-duration: 1.5s;
+	animation-iteration-count: 1;
+	animation-fill-mode: forwards;
+}
+
+#carousel-support .caption{
+	color: #333;
+	font-size: 1.2em;
+}
+
+#carousel-support .caption em{
+	color: rgb(255, 101, 0);
+	font-style: normal;
+}
+
+#carousel-support .caption strong{
+	font-weight: 700;
+}
+
+/**
+* Espace Promotions
+**/
+#promotions{
+	background-color: rgba(255, 101, 0, .7);
+	margin-top: 1em;
+	margin-bottom: 1em;
+	padding: 1em;
+	box-shadow: #000 3px 3px 3px;
+	border-radius: 0px 5px 0px 5px;
+}
+
+#promotions header h3{
+	color: rgb(255,255,255);
+	font-weight: normal;
+	font-size: 1.5em;
+	text-transform: uppercase;
+}
+
+#promotions header h3 em{
+	font-weight: 700;
+	font-style: normal;
+}
+
+#promotions p.promotion{
+	font-size: 1.2em;
+	letter-spacing: .1em;
+}
+
+/**
+* Pied de page principal
+**/
+footer.main{
+	color: #333;
+	border: none;
+	padding-top: 0.7em;
+	border-top: solid 1px rgb(255, 101, 0);
+}
+
+footer.main a{
+	text-decoration: none;
+	color: inherit;
+}
+
+footer.main .footer-menu a::before, footer.main .footer-tools-menu a::before{
+	content: ">>";
+}
+
+footer.main .footer-menu a{
+	color: rgb(255, 101, 0);
+	text-transform: uppercase;
+}
+
+footer.main .footer-tools-menu a{
+	text-transform: uppercase;
+}
+footer.main .footer-menu a abbr{
+	text-decoration: none;
+	border: none;
+}
+
+footer.main [itemprop="name"]{
+	font-weight: 700;
+	text-transform: uppercase;	
+}
+
+footer.main [itemprop="addressLocality"]{
+	text-transform: uppercase;	
+}
+
+footer.main .footer-address p{
+	margin: 0;
+	padding: 0;
+}
+
+footer.main .footer-address p a, footer.main .footer-address p span{
+	font-weight: 700;
+}
+
+footer.main .footer-address p:nth-child(4), footer.main .footer-address p:nth-child(5), footer.main .footer-address p:nth-child(6){
+	margin-top: .5em;	
+}
+
+/**
+* Pied de page spécifique mobile
+**/
+footer.main .footer-mobile-menu ul {
+	width: 8em;
+	text-align: center;
+	margin: 0 auto;
+}
+
+footer.main .footer-mobile-menu ul li {
+	float: left;
+	margin-right: 2em;
+}
+footer.main .footer-mobile-menu a {
+	text-decoration: none;
+	color: rgb(255, 101, 0);
+	font-size: 2em;
+}
+/**
+* Animations et transitions
+**/
+.rotate{
+	transform: rotate(0deg) scale(1);
+	color: inherit;
+	transition: all .5s 0s ease-in;
+}
+
+.rotate:hover{
+	color: #333;
+	transform: rotate(360deg) scale(1.2);
+}
+
+@keyframes progressive {
+	0%{
+		opacity: .1;
+	}
+	
+	25%{
+		opacity: .3;
+	}
+	
+	50%{
+		opacity: .5;
+	}
+	
+	75%{
+		opacity: .7;
+	}
+	
+	100%{
+		opacity: 1;
+	}
+}
