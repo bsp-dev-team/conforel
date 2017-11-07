@@ -37,3 +37,13 @@ $('.show-univers').on('click', function() {
 	carousel.removeClass('inactive').addClass('active');
 
 });
+
+
+/**
+* Masque les univers exeptée le premier
+**/
+function hideUnivers(){
+	$('#univers-ehpad, #univers-sieges, #univers-enseignement, #univers-restauration').removeClass('active').addClass('inactive');
+}
+//définie le timeout pour la fonction hideUnivers
+var timoutID = window.setTimeout(hideUnivers, 10000)
