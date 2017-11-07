@@ -46,4 +46,4 @@ function hideUnivers(){
 	$('#univers-ehpad, #univers-sieges, #univers-enseignement, #univers-restauration').removeClass('active').addClass('inactive');
 }
 //définie le timeout pour la fonction hideUnivers
-var timoutID = window.setTimeout(hideUnivers, 10000)
+var timoutID = window.setTimeout(hideUnivers, 5000)
