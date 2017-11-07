@@ -20,11 +20,11 @@ body{
 	font-size: 1.5em;
 	font-weight: normal;
 	text-transform: uppercase;
-	text-align: center;	
+	text-align: center;
 }
 
 .header.main h1 strong{
-	font-weight: 700;	
+	font-weight: 700;
 }
 
 .header .contact a{
@@ -78,24 +78,24 @@ main header.header h2 em{
 		margin-right: 0.5em;
 		width: 200px;
 	}
-	
+
 	#chemin-de-fer figure {
 		position: relative;
 		height: 85px;
 		overflow: hidden;
 	}
-	
+
 	#chemin-de-fer ul li:first-child{
 		width: 284px;
 		height: 121px;
 	}
-	
+
 	#chemin-de-fer figure:hover figcaption{
 		top: 0%;
 		color: #fff;
 		transition: top 1s 0s ease-in-out, color .5s .8s ease-in;
 	}
-	
+
 	#chemin-de-fer figure figcaption{
 		position: absolute;
 		top: 97%;
@@ -108,7 +108,7 @@ main header.header h2 em{
 		padding-left: 0.25em;
 		padding-right: 0.25em;
 	}
-	
+
 	#chemin-de-fer figure figcaption h3{
 		font-size: 1.2em;
 		text-align: center;
@@ -127,22 +127,22 @@ main header.header h2 em{
 		color: rgb(255, 101, 0);
 		text-decoration: none;
 	}
-		
+
 	#carousel-mobile-support figure.vignette {
 		margin: 0 auto;
 	}
-	
+
 	#carousel-mobile-support figure img{
 		margin: 0 auto;
 	}
-	
+
 	#carousel-mobile-support figure figcaption{
 		width: inherit;
 		padding-left: .5em;
 		padding-right: .5em;
 		text-align: justify;
 	}
-	
+
 	#carousel-mobile-support ul li h3{
 		font-size: 1em;
 		color: inherit;
@@ -250,11 +250,11 @@ footer.main .footer-menu a abbr{
 
 footer.main [itemprop="name"]{
 	font-weight: 700;
-	text-transform: uppercase;	
+	text-transform: uppercase;
 }
 
 footer.main [itemprop="addressLocality"]{
-	text-transform: uppercase;	
+	text-transform: uppercase;
 }
 
 footer.main .footer-address p{
@@ -267,7 +267,7 @@ footer.main .footer-address p a, footer.main .footer-address p span{
 }
 
 footer.main .footer-address p:nth-child(4), footer.main .footer-address p:nth-child(5), footer.main .footer-address p:nth-child(6){
-	margin-top: .5em;	
+	margin-top: .5em;
 }
 
 /**
@@ -306,20 +306,32 @@ footer.main .footer-mobile-menu a {
 	0%{
 		opacity: .1;
 	}
-	
+
 	25%{
 		opacity: .3;
 	}
-	
+
 	50%{
 		opacity: .5;
 	}
-	
+
 	75%{
 		opacity: .7;
 	}
-	
+
 	100%{
 		opacity: 1;
 	}
+}
+/**
+* Page Scolaire
+**/
+.scolaire{
+	border: none;
+	border-bottom: solid 1px rgb(255, 101, 0);
+	padding-bottom: .7em;
+}
+.scolaire-v{
+	border: none;
+	padding-bottom: .7em;
 }
