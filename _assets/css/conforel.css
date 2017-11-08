@@ -347,6 +347,12 @@ footer.main .footer-mobile-menu a {
 	text-transform: uppercase;
 }
 .header-dropdown-burger  a{
-	color: rgb(255, 101, 0) !important; 
+	color: rgb(255, 101, 0) !important;
 	text-transform: uppercase;
+}
+/**
+* Page restauration
+**/
+.thumbnail:hover{
+	border-color: rgb(255,101,0) !important;
 }
