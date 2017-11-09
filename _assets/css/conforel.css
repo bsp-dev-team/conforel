@@ -324,16 +324,18 @@ footer.main .footer-mobile-menu a {
 	}
 }
 /**
-* Page Scolaire
+* Template-1 ( scolaire / Ehpad)
 **/
-.scolaire{
+.template-1{
 	border: none;
 	border-bottom: solid 1px rgb(255, 101, 0);
 	padding-bottom: .7em;
+	padding-top: .2em;
 }
-.scolaire-v{
+.template-1-v{
 	border: none;
 	padding-bottom: .7em;
+	padding-top: .5em;
 }
 /**
 * Burger
