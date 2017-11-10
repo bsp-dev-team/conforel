@@ -1,132 +1,13 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-
-
-		<title>Mobilier de bureau, Mobilier de Collectivités - Conforel - Hourcade - Pyrénées-Atlantique</title>
-
-		<meta name="description" content="Retrouvez les collections de mobilier de bureau et mobilier pour collectivités distribuées par Conforel - Hourcade, professionnel du mobilier en Pyrénées-Atlantique">
-		<meta name="keywords" content="mobilier de bureau, mobilier pour collectivités, restaurants, ephad, bibliothèques">
-
-		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-
-		<!--  Insertion des CSS -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-		<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
-
-		<link rel="stylesheet" href="./_assets/css/icomoon/style.css">
-
-		<link rel="stylesheet" href="./_assets/css/slick/slick.css">
-		<link rel="stylesheet" href="./_assets/css/slick/slick-theme.css">
-
-		<link rel="stylesheet" href="./_assets/css/conforel.css">
-		<!--  Fin d'insertion des CSS -->
+		<?php include "./_assets/includes/head.html"; ?>
 	</head>
 
 	<body>
 
 		<div class="index container">
-			<header class="header main row">
-				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
-					<a href="index.html" title="Accueil">
-						<img src="./_assets/images/corporate/logo.png" alt="Conforel - Hourcade Mobilier de bureau, mobilier pour collectivités" class="img-responsive">
-					</a>
-				</div>
-
-
-				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-					<h1>Mobilier de <strong>bureau</strong>, <strong>rangements</strong> et <strong>sièges</strong> pour l'<strong>Entreprise</strong> et les <strong>Collectivités</strong></h1>
-				</div>
-
-				<div class="contact col-lg-3 col-md-3 hidden-sm hidden-xs">
-					<ul class="list-unstyled">
-						<li class="embossed">
-							Téléphone : <a href="tel:+(33)562930390" title="Appelez Conforel - Hourcade">05 62 93 03 90</a>
-						</li>
-						<li class="embossed">
-							E-mail : <a href="mailto:contact@conforel.com" title="Contactez Conforel - Hourcade par e-mail">contact@conforel.com</a>
-						</li>
-						<li>
-							Fax : 05 62 93 58 39
-						</li>
-						<li class="social-toolbar">
-							<ul class="list-unstyled">
-								<li class="rotate">
-									<a href="mailto:contact@conforel.com" title="Contactez Conforel - Hourcade Immobilier">
-										<i class="icon-mail4"></i>
-									</a>
-								</li>
-								<li class="rotate">
-									<a href="https://fr-fr.facebook.com/conforel.hourcademobilier" title="Suivez l'actualité de Conforel - Hourcade Immobilier sur Facebook" target="_new">
-										<i class="icon-facebook2"></i>
-									</a>
-								</li>
-								<li class="rotate">
-									<a href="https://plus.google.com/u/0/109100930592742136549" title="Suivez l'actualité de Conforel - Hourcade Immobilier sur Google+" target="_new">
-										<i class="icon-google-plus2"></i>
-									</a>
-								</li>
-							</ul>
-						</li>
-					</ul>
-				</div>
-				<div class="dropdown hidden-lg hidden-md col-sm-12 col-xs-12">
-					<button class="btn btn-default btn-lg dropdown-toggle header-btn-burger" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-						<i class=" glyphicon glyphicon-menu-hamburger"></i>
-					</button>
-					<ul class="dropdown-menu header-dropdown-burger" aria-labelledby="dropdownMenu1">
-						<li>
-							<a href="index.html" title="Accueil">
-								Accueil
-							</a>
-						</li>
-						<li>
-							<a href="bureau.html" title="Mobilier de bureaux, réunions, mobilier de rangement">
-								Bureaux, Réunions, Rangements
-							</a>
-						</li>
-						<li>
-							<a href="sieges.html" title="Sièges, Sièges de travail">
-								Sièges de travail
-							</a>
-						</li>
-						<li>
-							<a href="scolaire.html" title="Mobilier scolaire, mobilier pédagogique">
-								Mobilier scolaire et pédagogique
-							</a>
-						</li>
-						<li>
-							<a href="ehpad.html" title="Mobilier pour EHPAD">
-								Mobilier spécifique <abbr title="Etablissement d'Hébegement pour Personnes Agées Dépendantes">EHPAD</abbr>
-							</a>
-						</li>
-						<li>
-							<a href="restauration.html" title="Mobilier spécifique restauration collective">
-								Mobilier dédié à la restauration...
-							</a>
-						</li>
-						<li role="separator" class="divider"></li>
-						<li>
-							<a href="#" title="Conforel Hourcade Mobilier - Mentions légales">
-								Mentions légales
-							</a>
-						</li>
-						<li>
-							<a href="#" title="Conforel Hourcade Mobilier - L'entreprise">
-								Qui sommes-nous
-							</a>
-						</li>
-						<li>
-							<a href="#" title="Conforel Hourcade Mobilier - Plan du site">
-								Plan du site
-							</a>
-						</li>
-					</ul>
-				</div>
-			</header>
+			<?php include "./_assets/includes/header.html"; ?>
 
 			<main>
 				<header class="header row">
@@ -447,103 +328,103 @@
 
 				</div>
 				<div>
-					<a href="#_" class="lightbox" id="img-thumbnail-1">
+					<a href="#" class="lightbox" id="img-thumbnail-1">
 						<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-1.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-2">
+					<a href="#" class="lightbox" id="img-thumbnail-2">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-2.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-3">
+					<a href="#" class="lightbox" id="img-thumbnail-3">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-3.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-4">
+					<a href="#" class="lightbox" id="img-thumbnail-4">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-4.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-5">
+					<a href="#" class="lightbox" id="img-thumbnail-5">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-5.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-6">
+					<a href="#" class="lightbox" id="img-thumbnail-6">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-6.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-7">
+					<a href="#" class="lightbox" id="img-thumbnail-7">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-7.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-8">
+					<a href="#" class="lightbox" id="img-thumbnail-8">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-8.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-9">
+					<a href="#" class="lightbox" id="img-thumbnail-9">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-9.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-10">
+					<a href="#" class="lightbox" id="img-thumbnail-10">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-10.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-11">
+					<a href="#" class="lightbox" id="img-thumbnail-11">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-11.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-12">
+					<a href="#" class="lightbox" id="img-thumbnail-12">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-12.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-13">
+					<a href="#" class="lightbox" id="img-thumbnail-13">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-13.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-14">
+					<a href="#" class="lightbox" id="img-thumbnail-14">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-14.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-15">
+					<a href="#" class="lightbox" id="img-thumbnail-15">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-15.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-16">
+					<a href="#" class="lightbox" id="img-thumbnail-16">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-16.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-17">
+					<a href="#" class="lightbox" id="img-thumbnail-17">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-17.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-18">
+					<a href="#" class="lightbox" id="img-thumbnail-18">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-18.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-19">
+					<a href="#" class="lightbox" id="img-thumbnail-19">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-19.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-20">
+					<a href="#" class="lightbox" id="img-thumbnail-20">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-20.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-21">
+					<a href="#" class="lightbox" id="img-thumbnail-21">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-21.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-22">
+					<a href="#" class="lightbox" id="img-thumbnail-22">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-22.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-23">
+					<a href="#" class="lightbox" id="img-thumbnail-23">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-23.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-24">
+					<a href="#" class="lightbox" id="img-thumbnail-24">
   					<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-24.png">
 					</a>
 
-					<a href="#_" class="lightbox" id="img-thumbnail-25">
+					<a href="#" class="lightbox" id="img-thumbnail-25">
 						<img src="./_assets/images/univers/sieges/sieges-thumbnails/sieges-thumbnail-25.png">
 					</a>
 
@@ -552,94 +433,7 @@
 			</main>
 
 
-			<footer class="main row">
-
-
-
-				<div class="hidden-lg hidden-md col-sm-10 col-xs-10 footer-mobile-menu">
-					<ul class="list-unstyled">
-						<li>
-							<a href="tel:+(33)562930390" itemprop="telephone">
-								<i class="icon-mobile"></i>
-							</a>
-						</li>
-
-						<li>
-							<a href="mailto:hourcade.s@wanadoo.fr" title="Contactez Conforel - Hourcade Immobilier">
-								<i class="icon-mail4"></i>
-							</a>
-						</li>
-					</ul>
-				</div>
-
-				<div class="col-lg-4 col-md-4 hidden-sm hidden-xs footer-menu">
-					<ul class="list-unstyled">
-						<li>
-							<a href="index.html" title="Accueil">
-								Accueil
-							</a>
-						</li>
-						<li>
-							<a href="bureau.html" title="Mobilier de bureaux, réunions, mobilier de rangement">
-								Bureaux, Réunions, Rangements
-							</a>
-						</li>
-						<li>
-							<a href="sieges.html" title="Sièges, Sièges de travail">
-								Sièges de travail
-							</a>
-						</li>
-						<li>
-							<a href="scolaire.html" title="Mobilier scolaire, mobilier pédagogique">
-								Mobilier scolaire et pédagogique
-							</a>
-						</li>
-						<li>
-							<a href="ehpad.html" title="Mobilier pour EHPAD">
-								Mobilier spécifique <abbr title="Etablissement d'Hébegement pour Personnes Agées Dépendantes">EHPAD</abbr>
-							</a>
-						</li>
-						<li>
-							<a href="restauration.html" title="Mobilier spécifique restauration collective">
-								Mobilier dédié à la restauration collective
-							</a>
-						</li>
-					</ul>
-				</div>
-
-
-
-				<div class="col-lg-4 col-md-4 hidden-sm hidden-xs footer-address" itemscope itemtype="http://schema.org/Organization">
-					<address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-						<p itemprop="name">Conforel Hourcade Mobilier</p>
-						<p  itemprop="streetAddress">15 rue de l'Industrie</p>
-						<p><span itemprop="postalCode">F-65320</span> <span itemprop="addressLocality">Bordères sur l'Echez</span>
-    					<p>Teléphone : <a href="tel:+(33)562930390" itemprop="telephone">+(33)5 62 93 03 90 </a></p>
-    					<p>Fax : <span itemprop="faxNumber">+(33)5 62 93 58 39</span></p>
-    					<p>E-mail : <a href="mailto:hourcade.s@wanadoo.fr" itemprop="email">hourcade.s@wanadoo.fr</a></p>
-					</address>
-				</div>
-
-				<div class="col-lg-4 col-md-4 hidden-sm hidden-xs footer-tools-menu">
-					<ul class="list-unstyled">
-						<li>
-							<a href="#" title="Conforel Hourcade Mobilier - Mentions légales">
-								Mentions légales
-							</a>
-						</li>
-						<li>
-							<a href="#" title="Conforel Hourcade Mobilier - L'entreprise">
-								Qui sommes-nous
-							</a>
-						</li>
-						<li>
-							<a href="#" title="Conforel Hourcade Mobilier - Plan du site">
-								Plan du site
-							</a>
-						</li>
-					</ul>
-				</div>
-			</footer>
+			<?php include "./_assets/includes/footer.html" ?>
 		</div>
 
 		<!--  Insertion des Javascripts -->
