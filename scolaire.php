@@ -25,7 +25,7 @@
 									<img src="./_assets/images/univers/enseignement/scolaire/CATALOGUE-CONFERENCE-AMPHI.png" alt="Univers Scolaire - Catalogue Conference Amphi" class="img-responsive">
 								</a>
 							</div>
-							<p class='col-md-10 col-sm-10'>test</p>
+							<p class='col-md-10 col-sm-10'> </p>
 						</div>
 				</section>
 
@@ -37,7 +37,7 @@
 									<img src="./_assets/images/univers/enseignement/scolaire/CATALOGUE-ENSEIGNEMENT.png" alt="Univers Scolaire - Catalogue Conference Amphi" class="img-responsive">
 								</a>
 							</div>
-							<p class='col-md-10 col-sm-10'>test</p>
+							<p class='col-md-10 col-sm-10'> </p>
 						</div>
 				</section>
 
@@ -49,7 +49,7 @@
 									<img src="./_assets/images/univers/enseignement/scolaire/CATALOGUE-HEBERGEMENT.png" alt="Univers Scolaire - Catalogue Conference Amphi" class="img-responsive">
 								</a>
 							</div>
-							<p class='col-md-10 col-sm-10'>test</p>
+							<p class='col-md-10 col-sm-10'> </p>
 						</div>
 				</section>
 
@@ -61,7 +61,7 @@
 									<img src="./_assets/images/univers/enseignement/scolaire/CATALOGUE-MATERNELLE.png" alt="Univers Scolaire - Catalogue Conference Amphi" class="img-responsive">
 								</a>
 							</div>
-							<p class='col-md-10 col-sm-10'>test</p>
+							<p class='col-md-10 col-sm-10'> </p>
 						</div>
 				</section>
 
@@ -73,7 +73,7 @@
 									<img src="./_assets/images/univers/enseignement/scolaire/CATALOGUE-MOBILIER-SPECIALISE.png" alt="Univers Scolaire - Catalogue Conference Amphi" class="img-responsive">
 								</a>
 							</div>
-							<p class='col-md-10 col-sm-10'>test</p>
+							<p class='col-md-10 col-sm-10'> </p>
 						</div>
 				</section>
 
@@ -85,7 +85,7 @@
 									<img src="./_assets/images/univers/enseignement/scolaire/CATALOGUE-RESTAURATION.png" alt="Univers Scolaire - Catalogue Conference Amphi" class="img-responsive">
 								</a>
 							</div>
-							<p class='col-md-10 col-sm-10'>test</p>
+							<p class='col-md-10 col-sm-10'> </p>
 						</div>
 				</section>
 
@@ -97,7 +97,7 @@
 									<img src="./_assets/images/univers/enseignement/scolaire/CATALOGUE-INFORMATIQUE.png" alt="Univers Scolaire - Catalogue Conference Amphi" class="img-responsive">
 								</a>
 							</div>
-							<p class='col-md-10 col-sm-10'>test</p>
+							<p class='col-md-10 col-sm-10'> </p>
 						</div>
 				</section>
 

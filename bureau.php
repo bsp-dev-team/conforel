@@ -240,7 +240,7 @@
 				</div>
 
 				<!-- Version Bureau -->
-				<div class='row template-1-v hidden-sm hidden-xl'>
+				<div class='row template-1-v hidden-sm hidden-xs'>
 
 					<div class="col-md-3 col-lg-3">
     				<a href="#img-thumbnail-1" class="thumbnail">

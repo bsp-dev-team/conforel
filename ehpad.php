@@ -24,7 +24,7 @@
 									<img src="./_assets/images/univers/ehpad/ehpad/catalogue-2017.png" alt="Univers Ehpad - Catalogue 2017" class="img-responsive">
 								</a>
 							</div>
-							<p class='col-md-10 col-sm-10'>test</p>
+							<p class='col-md-10 col-sm-10'> </p>
 						</div>
 				</section>
 
@@ -36,7 +36,7 @@
 									<img src="./_assets/images/univers/ehpad/ehpad/PIAVAL_Health-and-Care-2017-riassuntivo.png" alt="Univers Ehpad - Catalogue Piaval Health and Care 2017 - Riassuntivo" class="img-responsive">
 								</a>
 							</div>
-							<p class='col-md-10 col-sm-10'>test</p>
+							<p class='col-md-10 col-sm-10'> </p>
 						</div>
 				</section>
 
