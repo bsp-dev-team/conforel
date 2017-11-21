@@ -13,7 +13,7 @@
 				<header class="header row">
 					<h2>
 						Expert en aménagement d'espaces de travail, <em>Conforel Hourcade Mobilier</em> vous accompagne dans votre projet d'équipement. Que ce soit de petits changements
-						ou un projet plus important; nous vous aiderons à trouver la solution la plus adaptée grace à des visuels 2D et 3D tout en <strong>respectant votre budget</strong>.
+						ou un projet plus important, nous vous aiderons à trouver la solution la plus adaptée grace à des visuels 2D et 3D tout en <strong>respectant votre budget</strong>.
 					</h2>
 				</header>
 

@@ -30,6 +30,7 @@
 									</figcaption>
 								</figure>
 							</a>
+							<a href="./bureau.php" class="acces-rapide"> >> Univers Bureau</a>
 						</li>
 						<li>
 							<a href="#" class="show-univers" title="Sièges de travail - Conforel Hourcade" data-rel="univers-sieges">
@@ -40,6 +41,7 @@
 									</figcaption>
 								</figure>
 							</a>
+							<a href="./sieges.php" class="acces-rapide"> >> Univers Sièges</a>
 						</li>
 						<li>
 							<a href="#" class="show-univers" title="Mobilier scolaire et pédagogique - Conforel Hourcade" data-rel="univers-enseignement">
@@ -50,6 +52,7 @@
 									</figcaption>
 								</figure>
 							</a>
+							<a href="./scolaire.php" class="acces-rapide"> >> Univers Enseignement</a>
 						</li>
 						<li>
 							<a href="#" class="show-univers" title="Equipement EHPAD - Conforel Hourcade" data-rel="univers-ehpad">
@@ -60,6 +63,7 @@
 									</figcaption>
 								</figure>
 							</a>
+							<a href="./ehpad.php" class="acces-rapide"> >> Univers EHPAD</a>
 						</li>
 						<li>
 							<a href="#" class="show-univers" data-rel="univers-restauration" title="Restauration collective - Conforel Hourcade">
@@ -69,14 +73,15 @@
 										<h3>Mobiliers dédiés aux structures de restauration collective</h3>
 									</figcaption>
 								</figure>
+								<a href="./restauration.php" class="acces-rapide"> >> Univers Restauration</a>
 							</a>
+
 						</li>
 					</ul>
 				</section>
 
 				<div id="carousel-support" class="row hidden-sm hidden-xs">
 					<div id="univers-bureau" class="univers bureau active">
-						<a href="./bureau.php" class="acces-rapide"> >> Univers Bureau</a>
 						<div class="slide">
 							<figure>
 								<figcaption>Consultez le catalogue complet de l'Univers Bureau</figcaption>
@@ -115,13 +120,12 @@
 						<div class="caption bureau">
 							<p>
 	 							Expert en aménagement d'espaces de travail, <em>Conforel Hourcade Mobilier</em> vous accompagne dans votre projet d'équipement. Que ce soit de petits changements
-	 							ou un projet plus important; nous vous aiderons à trouver la solution la plus adaptée grace à des visuels 2D et 3D tout en <strong>respectant votre budget</strong>.
+	 							ou un projet plus important, nous vous aiderons à trouver la solution la plus adaptée grace à des visuels 2D et 3D tout en <strong>respectant votre budget</strong>.
 							</p>
 						</div>
 					</div>
 
 					<div id="univers-sieges" class="univers sieges active">
-						<a href="./sieges.php" class="acces-rapide"> >> Univers Sièges</a>
 						<div class="slide">
 							<figure>
 								<figcaption>Consultez le catalogue complet de l'Univers Sièges</figcaption>
@@ -163,7 +167,6 @@
 
 
 					<div id="univers-enseignement" class="univers enseignement active">
-						<a href="./scolaire.php" class="acces-rapide"> >> Univers Enseignement</a>
 						<div class="slide">
 							<figure>
 								<figcaption>Consultez le catalogue complet de l'Univers de l'Enseignement</figcaption>
@@ -200,14 +203,12 @@
 						</div>
 
 						<div class="caption enseignement">
-							<p>
-									Si vous avez besoin d'équiper une ou plusieurs classes de votre établissement scolaire ou centre de formation , nous pouvons vous proposer un large choix de mobilier adapté pour tous les niveaux (maternelle, primaire, collège, lycée et supérieur).Les catalogues sont téléchargeables sur lesquels vous trouverez des tables et chaise fixes ou réglables, un grand choix de tailles ,dimensions et couleurs disponibles.
-								</p>
+							<p> Si vous avez besoin d'équiper une ou plusieurs classes de votre établissement scolaire ou centre de formation, nous pouvons vous proposer un large choix de mobilier adapté pour tous les niveaux (maternelle, primaire, collège, lycée et supérieur). Sur les catalogues,téléchargeables, vous trouverez des tables et chaises fixes ou réglables, un grand choix de tailles, dimensions et couleurs disponibles.
+							</p>
 						</div>
 					</div>
 
 					<div id="univers-ehpad" class="univers ehpad active">
-						<a href="./ehpad.php" class="acces-rapide"> >> Univers EHPAD</a>
 						<div class="slide">
 							<figure>
 								<figcaption>Consultez le catalogue complet de l'Univers EHPAD</figcaption>
@@ -237,14 +238,12 @@
 
 						<div class="caption ehpad">
 							<p>
-								Fort de son expérience depuis 1987, <em>Conforel Hourcade Mobilier</em> répond à vos besoins dans le domaine du mobilier et de l'aménagement.
-								Restaurants,chambres, accueils, salons,bibliothèques, nous nous efforçons de créer des espaces de vie fonctionnels et conviviaux. Nos meubles sont élaborés pour répondre à une utilisation intense sur des critères de solidité et de durabilité
+								Fort de son expérience depuis 1987, <em>Conforel Hourcade Mobilier</em> répond à vos besoins dans le domaine du mobilier et de l'aménagement. Restaurants, chambres, accueils, salons, bibliothèques, nous nous efforçons de créer des espaces de vie fonctionnels et conviviaux. Nos meubles sont élaborés pour répondre à une utilisation intense sur des critères de solidité et de durabilité.
 							</p>
 						</div>
 					</div>
 
 					<div id="univers-restauration" class="univers restauration active">
-						<a href="./restauration.php" class="acces-rapide"> >> Univers Restauration</a>
 						<div class="slide">
 							<figure>
 								<figcaption>Consultez le catalogue complet de l'Univers Restauration Collective</figcaption>
@@ -274,7 +273,9 @@
 
 						<div class="caption restauration">
 							<p>
-								Le mobilier donne sa personnalité à votre salle de restaurant, il définit l'ambiance que vous voulez créer ,En créant des espaces vivants, colorés et fonctionnels et en vous conseillant dans l'organisation des espaces (implantation 2d et 3d), le choix des matériaux et des couleurs , nous vous accompagnons jusqu'à la réalisation complète de votre projet.
+								Le mobilier donne sa personnalité à votre salle de restaurant, il définit l'ambiance.
+								En créant des espaces vivants, colorés et fonctionnels et en vous conseillant dans leur organisation
+								(implantations 2d et 3d), le choix des matériaux et des couleurs, nous vous accompagnons jusqu'à la réalisation complète de votre projet.
 							</p>
 						</div>
 					</div>

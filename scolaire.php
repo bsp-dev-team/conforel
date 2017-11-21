@@ -12,13 +12,13 @@
 			<main>
 				<header class="header row">
 					<h2>
-						Si vous avez besoin d'équiper une ou plusieurs classes de votre établissement scolaire ou centre de formation , nous pouvons vous proposer un large choix de mobilier adapté pour tous les niveaux (maternelle, primaire, collège, lycée et supérieur).Les catalogues sont téléchargeables sur lesquels vous trouverez des tables et chaise fixes ou réglables, un grand choix de tailles ,dimensions et couleurs disponibles.
+						Si vous avez besoin d'équiper une ou plusieurs classes de votre établissement scolaire ou centre de formation, nous pouvons vous proposer un large choix de mobilier adapté pour tous les niveaux (maternelle, primaire, collège, lycée et supérieur). Sur les catalogues,téléchargeables, vous trouverez des tables et chaises fixes ou réglables, un grand choix de tailles, dimensions et couleurs disponibles.
 					</h2>
 				</header>
 
 				<!-- Effectuez changement à partir d'ici -->
 				<section class='template-1'>
-					<h3>Catalogue Conference Amphi</h3>
+					<h3>Catalogue Conférence Amphi</h3>
 						<div class='row'>
 							<div class='col-sm-1 col-md-1'>
 								<a href='./_assets/images/univers/enseignement/scolaire/CATALOGUE-CONFERENCE-AMPHI-150.pdf' title="" target="_blank">
@@ -42,7 +42,7 @@
 				</section>
 
 				<section class='template-1'>
-					<h3>Catalogue Hebergement</h3>
+					<h3>Catalogue Hébergement</h3>
 						<div class='row'>
 							<div class='col-sm-1 col-md-1'>
 								<a href='./_assets/images/univers/enseignement/scolaire/CATALOGUE-HEBERGEMENT-150.pdf' title="" target="_blank">
@@ -66,7 +66,7 @@
 				</section>
 
 				<section class='template-1'>
-					<h3>Catalogue Mobilier Specialise</h3>
+					<h3>Catalogue Mobilier Specialisé</h3>
 						<div class='row'>
 							<div class='col-sm-1 col-md-1'>
 								<a href='./_assets/images/univers/enseignement/scolaire/CATALOGUE-MOBILIER-SPECIALISE-150.pdf' title="" target="_blank">

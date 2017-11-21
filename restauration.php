@@ -12,7 +12,9 @@
 			<main>
 				<header class="header row">
 					<h2>
-						Le mobilier donne sa personnalité à votre salle de restaurant, il définit l'ambiance que vous voulez créer ,En créant des espaces vivants, colorés et fonctionnels et en vous conseillant dans l'organisation des espaces (implantation 2d et 3d), le choix des matériaux et des couleurs , nous vous accompagnons jusqu'à la réalisation complète de votre projet.
+						Le mobilier donne sa personnalité à votre salle de restaurant, il définit l'ambiance.
+						En créant des espaces vivants, colorés et fonctionnels et en vous conseillant dans leur organisation
+						(implantations 2d et 3d), le choix des matériaux et des couleurs, nous vous accompagnons jusqu'à la réalisation complète de votre projet.
 					</h2>
 				</header>
 
