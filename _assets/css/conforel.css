@@ -391,3 +391,15 @@ footer.main .footer-mobile-menu a {
 	/** Unhide lightbox **/
 	display: block;
 }
+/**
+* Liens rapide
+**/
+a.acces-rapide{
+	color: rgb(255, 101, 0);
+	text-transform: uppercase;
+}
+a.acces-rapide:hover{
+	color: rgb(255, 101, 0);
+	text-transform: uppercase;
+	text-decoration: none
+}

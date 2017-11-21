@@ -76,6 +76,7 @@
 
 				<div id="carousel-support" class="row hidden-sm hidden-xs">
 					<div id="univers-bureau" class="univers bureau active">
+						<a href="./bureau.php" class="acces-rapide"> >> Univers Bureau</a>
 						<div class="slide">
 							<figure>
 								<figcaption>Consultez le catalogue complet de l'Univers Bureau</figcaption>
@@ -120,6 +121,7 @@
 					</div>
 
 					<div id="univers-sieges" class="univers sieges active">
+						<a href="./sieges.php" class="acces-rapide"> >> Univers Sièges</a>
 						<div class="slide">
 							<figure>
 								<figcaption>Consultez le catalogue complet de l'Univers Sièges</figcaption>
@@ -161,6 +163,7 @@
 
 
 					<div id="univers-enseignement" class="univers enseignement active">
+						<a href="./scolaire.php" class="acces-rapide"> >> Univers Enseignement</a>
 						<div class="slide">
 							<figure>
 								<figcaption>Consultez le catalogue complet de l'Univers de l'Enseignement</figcaption>
@@ -204,6 +207,7 @@
 					</div>
 
 					<div id="univers-ehpad" class="univers ehpad active">
+						<a href="./ehpad.php" class="acces-rapide"> >> Univers EHPAD</a>
 						<div class="slide">
 							<figure>
 								<figcaption>Consultez le catalogue complet de l'Univers EHPAD</figcaption>
@@ -240,6 +244,7 @@
 					</div>
 
 					<div id="univers-restauration" class="univers restauration active">
+						<a href="./restauration.php" class="acces-rapide"> >> Univers Restauration</a>
 						<div class="slide">
 							<figure>
 								<figcaption>Consultez le catalogue complet de l'Univers Restauration Collective</figcaption>
